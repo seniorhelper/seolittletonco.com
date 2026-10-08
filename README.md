@@ -1,2 +1,1 @@
-# seolittletonco.com
-seolittletonco.com
+Static site.
